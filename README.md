@@ -17,6 +17,7 @@ I'm a Backend Developer, amateur astronomer and owner of 6" telescope 🔭
 
 ### Stats:
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jkbkupczyk&layout=compact)
+<br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jkbkupczyk&show_icons=true)
 
 [link]: https://github.com/jkbkupczyk
