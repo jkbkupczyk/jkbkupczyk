@@ -16,6 +16,7 @@ I'm a Backend Developer, amateur astronomer and owner of 6" telescope 🔭
 [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://jkbkupczyk.github.io/portfolio/)  
 
 ### Stats:
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamSiekierski&layout=compact)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jkbkupczyk&show_icons=true)
 
 [link]: https://github.com/jkbkupczyk
