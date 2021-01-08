@@ -16,10 +16,10 @@ I'm a Backend Developer and amateur astronomer 🔭
 [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://jkbkupczyk.github.io/portfolio/)  
 
 ### Stats:
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkbkupczyk&layout=compact" width="450" alt="Most used languages" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=jkbkupczyk&show_icons=true" width="450" alt="GitHub stats" />
-</p>
+</div>
 
 [link]: https://github.com/jkbkupczyk
