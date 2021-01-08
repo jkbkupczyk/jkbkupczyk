@@ -17,9 +17,9 @@ I'm a Backend Developer and amateur astronomer 🔭
 
 ### Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkbkupczyk&layout=compact" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkbkupczyk&layout=compact" width="450" alt="Most used languages" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=jkbkupczyk&show_icons=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jkbkupczyk&show_icons=true" width="450" alt="GitHub stats" />
 </p>
 
 [link]: https://github.com/jkbkupczyk
