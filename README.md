@@ -1,10 +1,21 @@
 # Hi, I'm Jacob 👋
-Java enthusiast, backend developer, and amateur astronomer 🔭
 
-<h1 align="center">Stats</h1>
-<div align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=jkbkupczyk&show_icons=true" width="450" alt="GitHub stats" />
-</div>
+Java Software Engineer with a focus on backend development.
+In my daily work at [PagoNxt](https://github.com/pagonxt), I build and maintain microservice-based systems using 
+_Java_ and _Spring Boot_.
+I am currently pursuing a Master's degree at [WSB Merito University](https://www.merito.pl/english/) and 
+expanding my knowledge in Go and game development with LWJGL as well as writing shaders using GLSL.
 
-[link]: https://github.com/jkbkupczyk
+Outside of software engineering, I train calisthenics and do amateur astronomy with my 6" Dobsonian telescope 🔭
+
+## Focus
+- _Java_ (21 - 25), Spring Boot
+- Distribution systems and microservices
+- _Go_ (learning)
+- _LWJGL_ && _OpenGL_ && _GLSL_
+
+## Links
+- Website: 🚧 UNDER MAINTENANCE 🚧
+- GitLab: https://gitlab.com/jkbkupczyk
+- LinkedIn: https://www.linkedin.com/in/jakub-kupczyk/
+- Codecrafters: https://app.codecrafters.io/users/jkbkupczyk
