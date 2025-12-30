@@ -16,6 +16,7 @@ Outside of software engineering, I train calisthenics and do amateur astronomy w
 
 ## Links
 - Website: 🚧 UNDER MAINTENANCE 🚧
-- GitLab: https://gitlab.com/jkbkupczyk
 - LinkedIn: https://www.linkedin.com/in/jakub-kupczyk/
+- GitLab: https://gitlab.com/jkbkupczyk
 - Codecrafters: https://app.codecrafters.io/users/jkbkupczyk
+
