@@ -8,7 +8,7 @@ expanding my knowledge in Go and game development with LWJGL as well as writing 
 
 Outside of software engineering, I train calisthenics and do amateur astronomy with my 6" Dobsonian telescope 🔭
 
-## Focus
+## Skills & Focus
 - _Java_ (21 - 25), Spring Boot
 - Distribution systems and microservices
 - _Go_ (learning)
@@ -19,4 +19,5 @@ Outside of software engineering, I train calisthenics and do amateur astronomy w
 - LinkedIn: https://www.linkedin.com/in/jakub-kupczyk/
 - GitLab: https://gitlab.com/jkbkupczyk
 - Codecrafters: https://app.codecrafters.io/users/jkbkupczyk
+
 
