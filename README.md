@@ -1,7 +1,7 @@
 # Hi, I'm Jacob 👋
 
 Java Software Engineer with a focus on backend development.
-In my daily work at [PagoNxt](https://github.com/pagonxt), I build and maintain microservice-based systems using 
+In my daily work at [Erste](https://www.erste.pl/en/about-erste), I build and maintain microservice-based systems using 
 _Java_ and _Spring Boot_.
 I am currently pursuing a Master's degree at [WSB Merito University](https://www.merito.pl/english/) and 
 expanding my knowledge in Go and game development with LWJGL as well as writing shaders using GLSL.
